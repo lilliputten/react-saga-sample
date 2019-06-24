@@ -21,4 +21,5 @@
 ## Project variants
 
  - [Version 1: redux](src/index1.jsx)
+ - [Version 2: redux-thunk](src/index1.jsx)
 
