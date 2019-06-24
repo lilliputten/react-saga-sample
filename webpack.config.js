@@ -11,7 +11,7 @@ const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 const WebpackBuildNotifierPlugin = require('webpack-build-notifier'); // https://www.npmjs.com/package/webpack-build-notifier
 const ExtractCssPlugin = require('mini-css-extract-plugin');
 
-const srcEntry = 'index2.jsx';
+const srcEntry = 'index3.jsx';
 
 const dirHtml = path.resolve(__dirname, 'html');
 const dirSrc = path.resolve(__dirname, 'src');
