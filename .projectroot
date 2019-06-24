@@ -18,4 +18,7 @@
 - `.stylelintrc.yml`
 - `.stylelintignore`
 
+## Project variants
+
+ - [Version 1: redux](src/index1.jsx)
 

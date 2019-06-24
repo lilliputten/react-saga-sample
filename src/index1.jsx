@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 /** @module index1
- *  @descr Dog CEO API: Version 1
+ *  @descr Dog CEO API: Version 1: redux
  *  @since 2019.06.21, 09:55
  *  @changed 2019.06.21, 10:16
  */
